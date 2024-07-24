@@ -1,0 +1,145 @@
+
+
+.bg-conatainer {
+    background-image: url("https://www.odishanewsinsight.com/wp-content/uploads/2015/10/india-tourism.gif");
+    background-size: cover;
+    height: 100vh;
+}
+
+.tourism-card {
+    text-align: center;
+    background-color: #ccccff;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    padding: 10px;
+
+}
+
+.main-heading {
+    font-family: Helvetica;
+    color: black;
+    font-size: 50px;
+}
+
+.paragraph {
+    text-align: center;
+    padding: 15px;
+    font-style: italic;
+    font-weight: bold;
+
+}
+
+.button1 {
+    text-align: center;
+    font-size: 17px;
+    border-width: 0px;
+    border-radius: 0px;
+    font-family: "momoton";
+    height: 50px;
+    width: 130px;
+    background-color: #ff6666;
+    color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+
+.favourite-place-bg-container {
+    background-image: url("https://wallpapercave.com/wp/rdl4b8k.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.favourite-place-main-heading {
+    padding: 25px;
+    font-weight: bold;
+    font-size: 35px;
+    font-family: " monoton";
+    color: navy;
+}
+
+.favourite-place-card-container {
+    padding: 22px;
+    background-color: orange;
+    border-radius: 15px;
+    margin: 15px;
+}
+
+.favourite-place-card-heading {
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 30px;
+    font-family: "bree serif";
+}
+
+.favourite-place-card-description {
+    font-family: "play fair display ";
+    font-size: 15px;
+}
+
+.favourite-place-card-image {
+    height: 150px;
+    width: 150px;
+    border-radius: 15px;
+
+}
+
+.card-button {
+    padding: 6px;
+    margin: 2px;
+    border-radius: 15px;
+    border-width: 0px;
+    color: white;
+    background-color: #0084ff;
+
+}
+
+.call-button {
+    text-align: center;
+    border-radius: 5px;
+    border-width: 0px;
+    color: black;
+    background-color: #00ff99;
+
+}
+
+.detailed-view-bg-container {
+    background-image: url("https://wallpapercave.com/wp/wp7231656.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.detailed-view-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.detailed-view-card-container {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 24px;
+}
+
+.detailed-view-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.detailed-view-card-description {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.detailed-view-card-text-container {
+    padding: 16px;
+}
